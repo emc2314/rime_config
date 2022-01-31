@@ -3,6 +3,7 @@
 patch:
   "switches/@0/reset": 1
   "translator/dictionary": luna_pinyin.extended
+  'speller/alphabet': 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-_'
   'speller/algebra':
     - erase/^xx$/
     - derive/^n/l/
