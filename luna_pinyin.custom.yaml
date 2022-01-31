@@ -1,0 +1,30 @@
+# encoding: utf-8
+
+patch:
+  "switches/@0/reset": 1
+  "translator/dictionary": luna_pinyin.extended
+  'speller/algebra':
+    - erase/^xx$/
+    - derive/^n/l/
+    - derive/^l/n/
+    - derive/([ei])n$/$1ng/
+    - derive/([ei])ng$/$1n/
+    # 模糊音定義先於簡拼定義，方可令簡拼支持以上模糊音
+    - abbrev/^([a-z]).+$/$1/           # 簡拼（首字母）
+    - abbrev/^([zcs]h).+$/$1/          # 簡拼（zh, ch, sh）
+    # 自動糾正一些常見的按鍵錯誤
+    - derive/([aeiou])ng$/$1gn/        # dagn => dang 
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/  # zho => zhong|zhou
+    - derive/ong$/on/                  # zhonguo => zhong guo
+    - derive/ao$/oa/                   # hoa => hao
+    - derive/([iu])a(o|ng?)$/a$1$2/    # tain => tian
+  schema/dependencies:
+    - emoji
+  abc_segmentor/extra_tags:
+    - reverse_lookup
+  reverse_lookup:
+    dictionary: emoji
+    enable_completion: false
+    prefix: "`"
+    tips: 〔表情〕
+  'simplifier/excluded_types': [ reverse_lookup ]
