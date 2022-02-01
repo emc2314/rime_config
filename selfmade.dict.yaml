@@ -1,0 +1,204 @@
+---
+name: selfmade
+version: '2022/1/31'
+sort: by_weight
+...
+
+#数学符号
+∵	because 10
+∴	therefore	10
+∈	in	10
+∉	notin	10
+⊂	subset	10
+⊃	supset	10
+⊆	subseteq	10
+⊇	supseteq	10
+⊄	notsubset	10
+⊅	notsupset	10
+ℕ	nn	10
+ℚ	qq	10
+ℝ	rr	10
+ℤ	zz	10
+ℂ	cc	10
+∑	sum 10
+∏	prod	10
+∫	int 10
+∮	oint	10
+∀	forall	10
+∃	exists	10
+∇	nabla	10
+∆	triangle	10
+∞	infty	10
+≐	doteq	10
+¬	neg		10
+±	pm		10
+∅	emptyset	10
+√	surd	10
+→	to		10
+∧	and		10
+⋀	bigwedge	10
+∨	or		10
+⋁	bigvee	10
+⊻	xor		10
+⋂	bigcap	10
+∩	cap		10
+⋃	bigcup	10
+∪	cup		10
+∆	triangle	10
+≈	approx	10
+≠	neq		10
+≡	equiv	10
+≤	leq		10
+≥	geq		10
++	plus	10
+−	minus	10
+⋅	cdot	10
+×	times	10
+÷	div		10
+⊕	oplus	10
+⊗	otimes	10
+
+#希腊字母
+Α	alpha	10
+Β	beta	10
+Γ	gamma	10
+Δ	delta	10
+Ε	epsilon	10
+Ζ	zeta	10
+Η	eta	10
+Θ	theta	10
+Ι	iota	10
+Κ	kappa	10
+Λ	lambda	10
+Μ	mu	10
+Ν	nu	10
+Ξ	xi	10
+Ο	omicron	10
+Π	pi	10
+Ρ	rho	10
+Σ	sigma	10
+Τ	tau	10
+Υ	upsilon	10
+Φ	phi	10
+Χ	chi	10
+Ψ	psi	10
+Ω	omega	10
+α	alpha	10
+β	beta	10
+γ	gamma	10
+δ	delta	10
+ε	epsilon	10
+ζ	zeta	10
+η	eta	10
+θ	theta	10
+ι	iota	10
+κ	kappa	10
+λ	lambda	10
+μ	mu	10
+ν	nu	10
+ξ	xi	10
+ο	omicron	10
+π	pi	10
+ρ	rho	10
+σ	sigma	10
+τ	tau	10
+υ	upsilon	10
+φ	phi	10
+χ	chi	10
+ψ	psi	10
+ω	omega	10
+
+(∫・ω・)∫	vk,kaixin	10
+(๑¯◡¯๑)	vk,kaixin	10
+(๑•́ ∀ •̀๑)	vk,kaixin	10
+ᕕ( ᐛ )ᕗ	vk,kaixin	10
+✧୧(๑=̴̀⌄=̴́๑)૭✧	vk,kaixin	10
+✧(∗≧ꇴ≦)人(≧ꈊ≦∗)✧	vk,kaixin	10
+̋(ˊᵒ̴̶̷̤ ꇴ ᵒ̴̶̷̤ˋ)	vk,kaixin	10
+(๑•̀ω•́ ๑) 	vk,kaixin	10
+ଘ(੭ˊ꒳​ˋ)੭✧	vk,kaixin	10
+
+(⁎˃ᴗ˂⁎)	vx,haixiu	10
+(* /ω＼*)	vx,haixiu	10
+ヾ( 〃ω〃)ｯ	vx,haixiu	10
+(灬ºωº灬)	vx,haixiu	10
+̋(ˊᵒ̴̶̷̤ ꇴ ᵒ̴̶̷̤ˋ)	vx,haixiu	10
+(⁄ ⁄•⁄ω⁄•⁄ ⁄)	vx,haixiu	10
+o(*////▽////*)q	vx,haixiu	10
+(〃￣ω￣〃)ゞ	vx,haixiu	10
+(〃ﾉωﾉ)	vx,haixiu	10
+
+d(๑•̀ㅂ•́)====b	vj,jiayou,zan	10
+＼＼\(۶•̀ᴗ•́)۶//／／	vj,jiayou,zan	10
+(و ˃̵ᴗ˂̵)و	vj,jiayou,zan	10
+( •̀ᄇ• ́)ﻭ✧	vj,jiayou,zan	10
+٩(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎ	vj,jiayou,zan	10
+٩(ര̀ᴗര́)	vj,jiayou,zan	10
+╭( ･ㅂ･)و )))	vj,jiayou,zan	10
+(ง •ૅ౪•᷄)ว	vj,jiayou,zan	10
+ヾ(●゜ⅴ゜)ﾉ	vj,jiayou,zan	10
+
+(っ˘̩╭╮˘̩)っ	vn,nanguo	10
+(ಥ﹏ಥ)	vn,nanguo	10
+๐·°(৹˃̵﹏˂̵৹)°·๐	vn,nanguo	10
+‧º·(˚ ˃̣̣̥⌓˂̣̣̥ )‧º·˚	vn,nanguo	10
+｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡	vn,nanguo	10
+(੭ ˃̣̣̥ ㅂ˂̣̣̥)੭ु	vn,nanguo	10
+( p′︵‵。)	vn,nanguo	10
+
+ʅ（´◔౪◔）ʃ	vao,aojiao,heng	10
+( ﹁ ﹁ ) ~→	vao,aojiao,heng	10
+(˵¯͒〰¯͒˵)	vao,aojiao,heng	10
+೭੧(❛〜❛✿)੭೨	vao,aojiao,heng	10
+ε-(『ﾍ´○)┓	vao,aojiao,heng	10
+ρ(￣ﾍ￣ ﾒ)	vao,aojiao,heng	10
+o(´^｀)o	vao,aojiao,heng	10
+（｀＾´）ノ	vao,aojiao,heng	10
+
+∑(っ°Д°;)っ	vzj,jing	10
+( : ౦ ‸ ౦ : )	vzj,jing	10
+((((；゜Д゜)))	vzj,jing	10
+щ(゜ロ゜щ)	vzj,jing	10
+∑(O_O；)	vzj,jing	10
+༼⁰o⁰；༽	vzj,jing	10
+(」゜ロ゜)」	vzj,jing	10
+
+(╯°Д°)╯（┻━┻	vz,zhuo,xianzhuo	10
+(／‵Д′)／~ ╧╧	vz,zhuo,xianzhuo	10
+(┛ಠДಠ)┛彡┻━┻	vz,zhuo,xianzhuo	10
+(╯’ – ‘)╯︵ ┻━┻	vz,zhuo,xianzhuo	10
+┳━┳ノ( OωOノ)	vz,zhuo,xianzhuo	10
+(╯°Д°)╯︵ ┻━┻	vz,zhuo,xianzhuo	10
+(┙>∧<)┙へ┻┻	vz,zhuo,xianzhuo	10
+
+o(･౪･´o ≡ ò౪ó))—̳͟͞͞o	vp,pia,da	10
+(￣ε(#￣)☆╰╮o(￣皿￣///)	vp,pia,da	10
+(｀⌒*)O-(｀⌒´Q)	vp,pia,da	10
+(●｀・ω・)=Ｏ)｀-д゜)	vp,pia,da	10
+(°Д°(☆○=(｀ω´*)o	vp,pia,da	10
+(╬￣皿￣)=○＃(￣#)３￣)	vp,pia,da	10
+
+(ｏ・_・)ノ”(ノ_<。)	vb,bao	10
+( ´･ω･)ﾉ(._.`)	vb,bao	10
+(づ￣ ³￣)づ	vb,bao	10
+(づ｡◕‿‿◕｡)づ	vb,bao	10
+༼つ ் ▽ ் ༽つ	vb,bao	10
+(⊃｡•́‿•̀｡)⊃	vb,bao	10
+～～(つˆДˆ)つﾉ>｡☆)ﾉ	vb,bao	10
+（⊃≧ω≦(´ω｀*⊂)	vb,bao	10
+(ｏ・_・)ノ⊂(・﹏・⊂)	vb,bao	10
+
+
+(*° ་། °)=3	vzx,xue,xie	10
+_(´ཀ`」 ∠)_	vzx,xue,xie	10
+
+ε-(=｀ω´=)	vt,tao,pao	10
+ヾ(●ﾟ∀ﾟ)ﾉ三ヾ(●ﾟ∀ﾟ)ﾉ	vt,tao,pao	10
+ΣΣ≡≡≡ｰ(ｰ・ω･)ｰ	vt,tao,pao	10
+o(▼Д▼ﾒo)=3 =3 =3	vt,tao,pao	10
+ε=ε=┏( >_<)┛	vt,tao,pao	10
+─=≡Σ((( つ•̀ω•́)つ	vt,tao,pao	10
+ε=ε=(⊃≧□≦)⊃	vt,tao,pao	10
+┏(゜ロ゜;)┛=ε=ε=ε	vt,tao,pao	10
+ε=ε=ε=ε=≡(〃ﾉωﾉ)	vt,tao,pao	10
+
